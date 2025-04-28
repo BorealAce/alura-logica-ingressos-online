@@ -129,6 +129,12 @@ form button {
     font-weight: 400;
 }
 
+.container section ul li {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}
+
 .container section ul li span {
     color: #00F4BF;
     font-style: italic;
